@@ -18,7 +18,7 @@ public class Solution implements Runnable {
         String string = readLine();
 
         Integer integer = readLineAsInteger();
-
+        printLine("Test");
         // sample output process
         printLine(string);
         printLine(integer);
